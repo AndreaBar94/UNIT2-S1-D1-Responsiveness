@@ -239,6 +239,7 @@ footer a {
     text-align: left;
     display: inline-block;
     width: 49%;
+    
   }
 
   header div p {
@@ -306,4 +307,14 @@ footer a {
     width: 33%;
     margin-inline: -3px;
   }
+}
+
+/* print */
+@media print {
+    body{
+    background-image:none;
+    }
+    header, article iframe,article section, aside,footer{
+        display:none;
+    }
 }
