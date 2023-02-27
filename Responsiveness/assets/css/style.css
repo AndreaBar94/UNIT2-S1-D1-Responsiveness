@@ -215,6 +215,7 @@ footer a {
   }
 
   table {
+    width: 70%;
     margin-inline: auto;
   }
 
@@ -254,6 +255,7 @@ footer a {
 
   header nav li {
     display: inline-block;
+    
   }
   
   header div img{
