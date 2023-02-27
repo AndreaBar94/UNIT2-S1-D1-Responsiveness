@@ -238,6 +238,7 @@ footer a {
   header div {
     text-align: left;
     display: inline-block;
+    width: 49%;
   }
 
   header div p {
@@ -247,6 +248,7 @@ footer a {
   header nav {
     display: inline-block;
     text-align: right;
+    width: 49%;
   }
 
   header nav li {
