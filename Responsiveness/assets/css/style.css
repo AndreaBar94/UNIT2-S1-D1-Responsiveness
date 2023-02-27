@@ -209,7 +209,7 @@ footer a {
 }
 
 /* MEDIUM VIEW */
-@media screen and (max-width: 768px) {
+@media screen and (min-width: 577px) and (max-width: 768px) {
   header nav li {
     display: inline-block;
   }
